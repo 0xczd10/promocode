@@ -1,0 +1,10 @@
+{
+    "vpn_config": {
+      "promocode": {
+        "key": {
+          "code": "HELP",
+          "day": 1
+        }
+      }
+    }
+  }
